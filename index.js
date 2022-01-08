@@ -4,5 +4,5 @@ const porta = process.env.PORT || 3001;
 
 
 app.listen(porta, () =>{
-    console.log(`Nigga you dit it, server running on port ${porta}`)
+    console.log(`You dit it, server running on port ${porta}`)
 })
